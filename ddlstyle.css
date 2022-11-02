@@ -1,0 +1,22 @@
+body {
+ background-color: beige;
+
+
+}
+header {
+  background: rgb(182, 82, 46);
+  text-align: center;
+  color: beige;
+}
+.title {
+    text-decoration:underline  ;
+    text-align: center;
+    font-family: goudy old style ;
+    color: rgb(232, 168, 72);
+
+     }
+ul {
+float: none;
+list-style-type: circle;
+
+}
